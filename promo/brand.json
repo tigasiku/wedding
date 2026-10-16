@@ -1,0 +1,150 @@
+{
+    "nama": "ayoWedding",
+    "ig": "@ayo.wedding",
+    "wa": "6281390109097",
+    "web": "invite.tigasiku.id",
+    "kota": "Polewali Mandar",
+    "tagline": "Undangan digital yang bikin tamu terkesan",
+    "lokal": "#polewali #polman #polewalimandar #mandar #sulbar #sulawesibarat #majene #mamuju #makassar #undanganpolman",
+    "warna": {
+        "deep": "#2A1240",
+        "ungu": "#7B3FA0",
+        "pink": "#D685C4",
+        "kuning": "#FFD347"
+    },
+    "paket": [
+        {
+            "nama": "Basic",
+            "harga": "150rb",
+            "fitur": "1 tema pilihan; RSVP & ucapan; Link personal tamu",
+            "pop": 0
+        },
+        {
+            "nama": "Premium",
+            "harga": "300rb",
+            "fitur": "Semua tema; Musik & galeri; Amplop digital & QR check-in",
+            "pop": 1
+        },
+        {
+            "nama": "Deluxe",
+            "harga": "550rb",
+            "fitur": "Desain custom; Domain sendiri; Prioritas pengerjaan",
+            "pop": 0
+        }
+    ],
+    "testimoni": [
+        {
+            "nama": "Sarah & Budi",
+            "ket": "Pernikahan",
+            "teks": "Prosesnya cepat banget, sehari udah jadi! Pilihan temanya banyak, akhirnya kami dapat yang paling cocok dan hasilnya cantik sekali.",
+            "sumber": ""
+        },
+        {
+            "nama": "Dinda & Fajar",
+            "ket": "Pernikahan",
+            "teks": "Fitur RSVP dan amplop digitalnya sangat membantu, tamu jadi lebih mudah konfirmasi kehadiran tanpa ribet.",
+            "sumber": ""
+        },
+        {
+            "nama": "Melisa & Arya",
+            "ket": "Pernikahan",
+            "teks": "Pelayanannya ramah dan responsif, revisi juga cepat ditanggapi. Recommended banget buat calon pengantin lain!",
+            "sumber": ""
+        }
+    ],
+    "faq": [
+        {
+            "q": "Berapa lama undangan selesai dibuat?",
+            "a": "Rata-rata 1×24 jam setelah data dan foto lengkap kami terima."
+        },
+        {
+            "q": "Apakah bisa revisi?",
+            "a": "Bisa. Semua paket sudah termasuk revisi gratis untuk teks, foto, dan detail acara."
+        },
+        {
+            "q": "Apakah nama tamu bisa berbeda-beda?",
+            "a": "Bisa, tiap tamu mendapat link personal sehingga namanya tampil di sampul undangan."
+        },
+        {
+            "q": "Bisa untuk acara selain nikahan?",
+            "a": "Bisa: aqiqah, khitanan, ulang tahun, wisuda, syukuran, dan lainnya."
+        },
+        {
+            "q": "Apakah warna tema bisa diganti?",
+            "a": "Bisa. Warna dapat disesuaikan dengan konsep acara Anda."
+        },
+        {
+            "q": "Bagaimana tamu mengonfirmasi kehadiran?",
+            "a": "Tamu cukup mengisi formulir RSVP di undangan, datanya langsung masuk ke panel Anda."
+        }
+    ],
+    "jadwal": [
+        "tema",
+        "tema",
+        "tips",
+        "pilih",
+        "fitur",
+        "testimoni",
+        "promo"
+    ],
+    "jam": "19.00",
+    "posted": [],
+    "izin": {
+        "1": {
+            "anonim": 0,
+            "foto": 1
+        },
+        "5": {
+            "anonim": 0,
+            "foto": 1
+        },
+        "6": {
+            "anonim": 0,
+            "foto": 1
+        },
+        "7": {
+            "anonim": 0,
+            "foto": 1
+        },
+        "8": {
+            "anonim": 0,
+            "foto": 1
+        },
+        "9": {
+            "anonim": 0,
+            "foto": 1
+        },
+        "10": {
+            "anonim": 0,
+            "foto": 1
+        },
+        "27": {
+            "anonim": 0,
+            "foto": 1
+        },
+        "30": {
+            "anonim": 0,
+            "foto": 1
+        },
+        "31": {
+            "anonim": 0,
+            "foto": 1
+        },
+        "32": {
+            "anonim": 0,
+            "foto": 1
+        },
+        "33": {
+            "anonim": 0,
+            "foto": 1
+        }
+    },
+    "promo": {
+        "aktif": 0,
+        "judul": "Diskon 20% semua paket",
+        "ket": "Berlaku untuk pemesanan baru",
+        "kode": "",
+        "akhir": ""
+    },
+    "musiman": 1
+}
