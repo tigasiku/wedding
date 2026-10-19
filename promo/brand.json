@@ -1,6 +1,6 @@
 {
     "nama": "ayoWedding",
-    "ig": "@ayo.wedding",
+    "ig": "@ayowedding.inv",
     "wa": "6281390109097",
     "web": "invite.tigasiku.id",
     "kota": "Polewali Mandar",
@@ -140,11 +140,12 @@
         }
     },
     "promo": {
-        "aktif": 0,
+        "aktif": 1,
         "judul": "Diskon 20% semua paket",
         "ket": "Berlaku untuk pemesanan baru",
         "kode": "",
-        "akhir": ""
+        "akhir": "2026-10-31"
     },
-    "musiman": 1
+    "musiman": 1,
+    "interaktif": []
 }
