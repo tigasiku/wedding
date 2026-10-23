@@ -15,20 +15,23 @@
     "paket": [
         {
             "nama": "Basic",
-            "harga": "150rb",
-            "fitur": "1 tema pilihan; RSVP & ucapan; Link personal tamu",
+            "harga": "50rb",
+            "coret": "100rb",
+            "fitur": "1 tema pilihan standar; Link personal per tamu; Musik",
             "pop": 0
         },
         {
             "nama": "Premium",
-            "harga": "300rb",
-            "fitur": "Semua tema; Musik & galeri; Amplop digital & QR check-in",
+            "harga": "70rb",
+            "coret": "150rb",
+            "fitur": "Semua tema tersedia; RSVP & ucapan tamu; Musik & video latar",
             "pop": 1
         },
         {
             "nama": "Deluxe",
             "harga": "550rb",
-            "fitur": "Desain custom; Domain sendiri; Prioritas pengerjaan",
+            "coret": "",
+            "fitur": "Desain 100% custom; Custom domain sendiri; Live streaming embed",
             "pop": 0
         }
     ],
@@ -88,9 +91,15 @@
         "promo"
     ],
     "jam": "19.00",
-    "posted": [],
+    "posted": {
+        "2026-10-18": "tips"
+    },
     "izin": {
         "1": {
+            "anonim": 0,
+            "foto": 1
+        },
+        "2": {
             "anonim": 0,
             "foto": 1
         },
