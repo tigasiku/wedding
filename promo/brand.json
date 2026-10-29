@@ -17,14 +17,14 @@
             "nama": "Basic",
             "harga": "50rb",
             "coret": "100rb",
-            "fitur": "1 tema pilihan standar; Link personal per tamu; Musik",
+            "fitur": "1 tema pilihan standar; RSVP & ucapan tamu; Link personal per tamu",
             "pop": 0
         },
         {
             "nama": "Premium",
-            "harga": "70rb",
+            "harga": "100rb",
             "coret": "150rb",
-            "fitur": "Semua tema tersedia; RSVP & ucapan tamu; Musik & video latar",
+            "fitur": "Semua tema tersedia; Musik & video latar; Galeri foto tak terbatas",
             "pop": 1
         },
         {
@@ -92,7 +92,10 @@
     ],
     "jam": "19.00",
     "posted": {
-        "2026-10-18": "tips"
+        "2026-10-18": "tips",
+        "2026-10-27": "kenalan,doa,promo,demo,faq,quote,testimoni",
+        "2026-10-25": "pilih",
+        "2026-10-28": "tema"
     },
     "izin": {
         "1": {
@@ -146,6 +149,10 @@
         "33": {
             "anonim": 0,
             "foto": 1
+        },
+        "35": {
+            "anonim": 0,
+            "foto": 1
         }
     },
     "promo": {
@@ -156,5 +163,86 @@
         "akhir": "2026-10-31"
     },
     "musiman": 1,
-    "interaktif": []
+    "interaktif": [],
+    "insight": {
+        "2026-10-25|pilih": {
+            "jangkau": 50,
+            "tayang": 169,
+            "suka": 4,
+            "komen": 0,
+            "simpan": 0,
+            "bagikan": 1,
+            "profil": 4,
+            "ikuti": 0,
+            "f": "feed",
+            "jam": "14.49",
+            "oto": 1,
+            "mid": "18120727720925990",
+            "upd": "2026-10-28 13:20"
+        },
+        "2026-10-27|demo": {
+            "jangkau": 43,
+            "tayang": 67,
+            "suka": 3,
+            "komen": 0,
+            "simpan": 0,
+            "bagikan": 0,
+            "f": "reels",
+            "jam": "22.22",
+            "oto": 1,
+            "mid": "18132876928757471",
+            "upd": "2026-10-28 13:08"
+        },
+        "2026-10-27|testimoni": {
+            "jangkau": 29,
+            "tayang": 79,
+            "suka": 2,
+            "komen": 0,
+            "simpan": 0,
+            "bagikan": 0,
+            "profil": 1,
+            "ikuti": 0,
+            "f": "feed",
+            "jam": "15.00",
+            "oto": 1,
+            "mid": "18106051112250705",
+            "upd": "2026-10-29 13:08"
+        },
+        "2026-10-28|tema": {
+            "jangkau": 29,
+            "tayang": 33,
+            "bagikan": 0,
+            "profil": 0,
+            "ikuti": 0,
+            "komen": 0,
+            "f": "story",
+            "jam": "21.26",
+            "oto": 1,
+            "mid": "17911674114302787",
+            "upd": "2026-10-29 13:05"
+        }
+    },
+    "seriPos": [],
+    "rencana": {
+        "2026-10-25": {
+            "jenis": "pilih",
+            "n": 2964
+        },
+        "2026-10-26": {
+            "jenis": "tips",
+            "n": 2964
+        },
+        "2026-10-27": {
+            "jenis": "kenalan",
+            "n": 5964,
+            "latar": "klasik"
+        },
+        "2026-10-28": {
+            "jenis": "tema",
+            "n": 5928
+        }
+    },
+    "sejak": "",
+    "tentang": "",
+    "cerita": ""
 }
