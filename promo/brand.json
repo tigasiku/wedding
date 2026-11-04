@@ -2,9 +2,10 @@
     "nama": "ayoWedding",
     "ig": "@ayowedding.inv",
     "wa": "6281390109097",
-    "web": "invite.tigasiku.id",
+    "web": "tigasiku.id",
     "kota": "Polewali Mandar",
     "tagline": "Undangan digital yang bikin tamu terkesan",
+    "tagTetap": "#UndanganDigital #UndanganPernikahan #WeddingInvitation #UndanganUnik #UndanganPernikahanMurah",
     "lokal": "#polewali #polman #polewalimandar #mandar #sulbar #sulawesibarat #majene #mamuju #makassar #undanganpolman",
     "warna": {
         "deep": "#2A1240",
@@ -90,12 +91,14 @@
         "testimoni",
         "promo"
     ],
-    "jam": "19.00",
+    "jam": "21.00",
     "posted": {
         "2026-10-18": "tips",
         "2026-10-27": "kenalan,doa,promo,demo,faq,quote,testimoni",
         "2026-10-25": "pilih",
-        "2026-10-28": "tema"
+        "2026-10-28": "tema",
+        "2026-10-30": "testimoni,demo",
+        "2026-10-31": "seri,demo,faq"
     },
     "izin": {
         "1": {
@@ -235,9 +238,42 @@
             "oto": 1,
             "mid": "17911674114302787",
             "upd": "2026-10-29 13:05"
+        },
+        "2026-10-31|demo": {
+            "jangkau": 232,
+            "tayang": 324,
+            "suka": 3,
+            "komen": 0,
+            "simpan": 0,
+            "bagikan": 2,
+            "f": "reels",
+            "jam": "19.05",
+            "oto": 1,
+            "mid": "17888056131689926",
+            "upd": "2026-11-01 23:59"
+        },
+        "2026-10-31|faq": {
+            "jangkau": 22,
+            "tayang": 53,
+            "suka": 2,
+            "komen": 0,
+            "simpan": 0,
+            "bagikan": 0,
+            "profil": 0,
+            "ikuti": 0,
+            "f": "feed",
+            "jam": "09.00",
+            "oto": 1,
+            "mid": "18189154654417504",
+            "upd": "2026-11-01 23:59"
         }
     },
-    "seriPos": [],
+    "seriPos": {
+        "mitos": {
+            "b": 0,
+            "t": "2026-10-31"
+        }
+    },
     "rencana": {
         "2026-10-25": {
             "jenis": "pilih",
