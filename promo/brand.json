@@ -98,7 +98,9 @@
         "2026-10-25": "pilih",
         "2026-10-28": "tema",
         "2026-10-30": "testimoni,demo",
-        "2026-10-31": "seri,demo,faq"
+        "2026-10-31": "seri,demo,faq,testimoni,tips",
+        "2026-11-07": "promo,lain",
+        "2026-11-08": "lain,tips"
     },
     "izin": {
         "1": {
@@ -240,17 +242,17 @@
             "upd": "2026-10-29 13:05"
         },
         "2026-10-31|demo": {
-            "jangkau": 232,
-            "tayang": 324,
-            "suka": 3,
+            "jangkau": 216,
+            "tayang": 269,
+            "suka": 2,
             "komen": 0,
             "simpan": 0,
-            "bagikan": 2,
+            "bagikan": 1,
             "f": "reels",
             "jam": "19.05",
             "oto": 1,
-            "mid": "17888056131689926",
-            "upd": "2026-11-01 23:59"
+            "mid": "18499672411110439",
+            "upd": "2026-11-06 04:25"
         },
         "2026-10-31|faq": {
             "jangkau": 22,
@@ -266,6 +268,64 @@
             "oto": 1,
             "mid": "18189154654417504",
             "upd": "2026-11-01 23:59"
+        },
+        "2026-10-31|seri": {
+            "jangkau": 16,
+            "tayang": 60,
+            "suka": 2,
+            "komen": 0,
+            "simpan": 0,
+            "bagikan": 0,
+            "profil": 0,
+            "ikuti": 0,
+            "f": "feed",
+            "jam": "09.00",
+            "oto": 1,
+            "mid": "18373787758245262",
+            "upd": "2026-11-06 04:25"
+        },
+        "2026-10-31|testimoni": {
+            "jangkau": 21,
+            "tayang": 63,
+            "suka": 2,
+            "komen": 0,
+            "simpan": 0,
+            "bagikan": 0,
+            "profil": 2,
+            "ikuti": 0,
+            "f": "feed",
+            "jam": "09.00",
+            "oto": 1,
+            "mid": "17987343420093117",
+            "upd": "2026-11-04 21:08"
+        },
+        "2026-10-31|tips": {
+            "jangkau": 23,
+            "tayang": 97,
+            "suka": 1,
+            "komen": 0,
+            "simpan": 0,
+            "bagikan": 0,
+            "profil": 1,
+            "ikuti": 0,
+            "f": "feed",
+            "jam": "09.00",
+            "oto": 1,
+            "mid": "18119901844843043",
+            "upd": "2026-11-06 14:50"
+        },
+        "2026-11-07|lain": {
+            "jangkau": 34,
+            "tayang": 66,
+            "suka": 4,
+            "komen": 0,
+            "simpan": 0,
+            "bagikan": 0,
+            "f": "reels",
+            "jam": "16.09",
+            "oto": 1,
+            "mid": "18180156424452112",
+            "upd": "2026-11-08 16:24"
         }
     },
     "seriPos": {
